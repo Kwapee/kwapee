@@ -31,14 +31,14 @@ My work sits at the intersection of applied AI (Computer Vision), cybersecurity 
 ## 💼 Professional Experience
 
 **Software Engineer** @ *BSystems Limited* (Oct 2024 – Present)
-- Engineering secure mobile fintech features using **Flutter, Java (Android), and GraphQL/REST APIs**—ensuring robust payment flows and real-time data protection.
+- Engineering secure mobile fintech features using **Flutter, Java (Android), and GraphQL/REST APIs**-ensuring robust payment flows and real-time data protection.
 - Enforcing strict security compliance through automated testing, rigorous code reviews, and performance tuning for production-grade scalability.
 
 **AI/ML Engineer Intern** @ *BUILDSPACE* (Jun 2024 – Aug 2024)
 - Contributed to the AI/ML pipeline for a medical imaging application, applying optimization techniques while enforcing stringent secure data-handling protocols.
 
 **Software Engineer Intern** @ *Trestle Academy Ghana* (May 2023 – Nov 2023)
-- Architected scalable mobile-backend ecosystems using **Flutter & Firebase**; led a 6-person engineering team to a hackathon win through clean architecture and rapid agile iteration.
+- Architected scalable mobile-backend ecosystems using **Flutter & Firebase**. Led a 6-person engineering team to a hackathon win through clean architecture and rapid agile iteration.
 
 ---
 
@@ -54,7 +54,7 @@ A secure, cashless collection platform for local governments featuring real-time
 
 ### 🏦 Agency Banking Platform
 **Tech:** Mobile & Backend Systems  
-Designed a secure agent-based digital banking infrastructure with **end-to-end transaction security, granular access control, and high-reliability data processing**—critical for financial inclusion initiatives.
+Designed a secure agent-based digital banking infrastructure with **end-to-end transaction security, granular access control, and high-reliability data processing**-critical for financial inclusion initiatives.
 
 ### ⛽ Digital Fuel Management System (Oil & Gas)
 **Tech:** Java, Firebase  
@@ -62,7 +62,7 @@ Built a real-time inventory and distribution monitoring system that **improved o
 
 ### 📍 TUETRA (P2P Asset Rental)
 **Tech:** Flutter, Google Maps API  
-Developed a proximity-based rental platform enabling asset discovery within a 500m radius—maximizing idle asset utilization through geolocation-driven efficiency.
+Developed a proximity-based rental platform enabling asset discovery within a 500m radius-maximizing idle asset utilization through geolocation-driven efficiency.
 
 ---
 
