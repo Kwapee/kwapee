@@ -90,8 +90,7 @@ Developed a proximity-based rental platform enabling asset discovery within a 50
 
 I'm always open to collaborating on **secure fintech**, **AI-driven identity projects**, or **large-scale system design**.
 
-- **Email:** p.amoako2002@gmail.com  
-- **Phone:** +233 558 270 504  
+- **Email:** p.amoako2002@gmail.com   
 - **Portfolio:** [kwapee.github.io/portfolio-website/](https://kwapee.github.io/portfolio-website/)  
 - **LinkedIn:** [Perry Amoako](https://linkedin.com/in/perry-amoako)
 
