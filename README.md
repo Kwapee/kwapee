@@ -1,7 +1,3 @@
-Here’s a **professional, industry-focused** README that positions you as a seasoned Software Engineer and Systems Architect, rather than an academic applicant. It emphasizes **business impact, engineering excellence**, and **technical authority**.
-
----
-
 # 👨‍💻 Perry Kwabena Amoako
 **Software Engineer** | *Secure Systems • AI/ML Integration • Cloud Architecture*
 
@@ -16,7 +12,7 @@ Here’s a **professional, industry-focused** README that positions you as a sea
 
 I'm a **Software Engineer** with a strong focus on **secure application development**, **AI-driven identity systems**, and **scalable mobile-backend architectures**. Currently at **BSystems Limited**, I engineer high-assurance fintech solutions where data integrity and transaction security are non-negotiable.
 
-My work sits at the intersection of applied AI (Computer Vision), cybersecurity (IAM), and full-stack development. I don't just write code—I architect resilient systems that solve real operational bottlenecks, reduce fraud, and drive digital transformation for enterprises and public-sector entities.
+My work sits at the intersection of applied AI (Computer Vision), cybersecurity (IAM), and full-stack development. I don't just write code, I architect resilient systems that solve real operational bottlenecks, reduce fraud, and drive digital transformation for enterprises and public-sector entities.
 
 ---
 
