@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/perry-amoako) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/kwapee) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://kwapee.github.io/portfolio-website/)
 [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-orange)](https://aws.amazon.com/)
 
 ---
