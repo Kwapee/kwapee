@@ -41,7 +41,7 @@ My work sits at the intersection of applied AI (Computer Vision), cybersecurity 
 
 ---
 
-## 📂 Featured Engineering Projects
+/**## 📂 Featured Engineering Projects
 
 ### 🔐 AI Facial Recognition Attendance & IAM System
 **Tech:** Python, OpenCV, ML  
@@ -61,7 +61,7 @@ Built a real-time inventory and distribution monitoring system that **improved o
 
 ### 📍 TUETRA (P2P Asset Rental)
 **Tech:** Flutter, Google Maps API  
-Developed a proximity-based rental platform enabling asset discovery within a 500m radius-maximizing idle asset utilization through geolocation-driven efficiency.
+Developed a proximity-based rental platform enabling asset discovery within a 500m radius-maximizing idle asset utilization through geolocation-driven efficiency.**/
 
 ---
 
