@@ -41,30 +41,6 @@ My work sits at the intersection of applied AI (Computer Vision), cybersecurity 
 
 ---
 
-/**## 📂 Featured Engineering Projects
-
-### 🔐 AI Facial Recognition Attendance & IAM System
-**Tech:** Python, OpenCV, ML  
-An automated identity verification engine built to **eliminate time fraud and impersonation**. Optimized camera hardware integration and recognition accuracy to deliver a reliable, production-ready access management tool.
-
-### 💰 Mobile Revenue Mobilization System (GovTech)
-**Tech:** Flutter, Firebase, MySQL  
-A secure, cashless collection platform for local governments featuring real-time monitoring, automated digital receipts, and a data architecture designed for public-sector scale and audit compliance.
-
-### 🏦 Agency Banking Platform
-**Tech:** Mobile & Backend Systems  
-Designed a secure agent-based digital banking infrastructure with **end-to-end transaction security, granular access control, and high-reliability data processing**-critical for financial inclusion initiatives.
-
-### ⛽ Digital Fuel Management System (Oil & Gas)
-**Tech:** Java, Firebase  
-Built a real-time inventory and distribution monitoring system that **improved operational transparency** for oil marketing companies, automating record-keeping across multiple fueling stations.
-
-### 📍 TUETRA (P2P Asset Rental)
-**Tech:** Flutter, Google Maps API  
-Developed a proximity-based rental platform enabling asset discovery within a 500m radius-maximizing idle asset utilization through geolocation-driven efficiency.**/
-
----
-
 ## 🏅 Certifications & Professional Accolades
 
 - **AWS Solutions Architect** – IT Masters & Charles Sturt University  
